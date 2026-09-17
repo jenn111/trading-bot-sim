@@ -1,6 +1,6 @@
 # Gold ORB Strategy — Status Report
 
-_Last updated: 2026-09-17 12:47 UTC — regenerated every 5 minutes by [gold-tick.yml](.github/workflows/gold-tick.yml), no manual step needed._
+_Last updated: 2026-09-17 17:18 UTC — regenerated every 5 minutes by [gold-tick.yml](.github/workflows/gold-tick.yml), no manual step needed._
 
 ## Verdict: No trades yet
 
@@ -22,5 +22,5 @@ No closed trades yet.
 
 - Session date: 2026-09-16
 - Entries today: 0/2
-- Last known price: $4405.00
+- Last known price: $4405.40
 
