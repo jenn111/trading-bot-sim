@@ -113,6 +113,10 @@ background scheduler yet. Each `tick` is one full evaluation pass.
 
 ## Gold Asian-session ORB strategy (separate engine)
 
+**Status: [GOLD_REPORT.md](GOLD_REPORT.md)** — regenerated every 5 minutes by
+the GitHub Actions workflow below, committed back to the repo. Just open it
+on GitHub to check on the strategy; nothing to run.
+
 A second, independent engine implementing the "Asian Session Gold ORB"
 strategy from [Peachy Investor's YouTube video](https://www.youtube.com/watch?v=di_UoCcHen8),
 trading **micro gold futures (MGC)** via Webull's futures paper account.

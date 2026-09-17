@@ -38,10 +38,13 @@ jobs:
           WEBULL_APP_SECRET: ${{ secrets.WEBULL_APP_SECRET }}
         run: python main.py gold-tick
 
+      - name: Render status report
+        run: python scripts/render_gold_report.py
+
       - name: Commit updated engine state
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add data/gold_state.json data/gold_webull_state.json
+          git add data/gold_state.json data/gold_webull_state.json GOLD_REPORT.md
           git diff --cached --quiet || git commit -m "Gold ORB tick: update engine state [skip ci]"
           git push
