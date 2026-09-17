@@ -1,0 +1,13 @@
+{
+  "starting_balance": 500,
+  "position_size_pct": 0.25,
+  "max_position_pct": 0.25,
+  "max_concurrent_positions": 2,
+  "daily_loss_cap_pct": 0.07,
+  "max_trades_per_day": 4,
+  "cooldown_minutes": 45,
+  "initial_stop_pct": 0.03,
+  "trailing_stop_pct": 0.01,
+  "poll_interval_minutes": 5,
+  "webull_mirror_enabled": false
+}

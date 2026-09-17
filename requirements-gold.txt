@@ -1,0 +1,7 @@
+# Slim dependency set for the gold ORB GitHub Actions workflow — installing
+# the full requirements.txt (which includes streamlit, for the unrelated
+# equity dashboard) on every 5-minute run would slow each job down for no
+# benefit.
+yfinance>=0.2.40
+webull-openapi-python-sdk>=3.0.0
+python-dotenv>=1.2.3

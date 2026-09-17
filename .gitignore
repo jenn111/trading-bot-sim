@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+data/*.json
+data/*.jsonl
+data/*.log
+!data/.gitkeep
+# Gold ORB engine state is committed back by the GitHub Actions workflow so
+# it persists across ephemeral runner instances (see .github/workflows/).
+!data/gold_state.json
+!data/gold_webull_state.json
+.env
+conf/
+webull_trade_sdk.log*
+data/webull_token/
