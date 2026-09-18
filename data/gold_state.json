@@ -1,24 +1,19 @@
 {
-  "position": {
-    "side": "long",
-    "entry_price": 4388.7001953125,
-    "entry_time": "2026-09-17T23:15:45.908249-04:00",
-    "contracts": 1,
-    "stop_price": 4408.861289062501,
-    "initial_risk": 7.200390625000182,
-    "targets": [
-      4395.9005859375,
-      4403.1009765625,
-      4410.301367187501
-    ],
-    "targets_hit": [
-      4395.9005859375,
-      4403.1009765625,
-      4410.301367187501
-    ]
-  },
-  "trade_history": [],
+  "position": null,
+  "trade_history": [
+    {
+      "side": "long",
+      "entry_price": 4388.7001953125,
+      "entry_time": "2026-09-17T23:15:45.908249-04:00",
+      "exit_price": 4405.5,
+      "exit_time": "2026-09-18T09:02:13.664120-04:00",
+      "contracts": 1,
+      "pnl": 16.7998046875,
+      "exit_reason": "stop_hit",
+      "targets_hit_count": 3
+    }
+  ],
   "session_date": "2026-09-17",
   "entries_today": 1,
-  "last_price": 4432.7998046875
+  "last_price": 4405.5
 }

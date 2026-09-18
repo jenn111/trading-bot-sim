@@ -1,5 +1,5 @@
 {
-  "mirror_status": "open",
+  "mirror_status": "closed",
   "symbol": "MGCV6",
   "side": "long",
   "contracts": 1,
@@ -9,6 +9,6 @@
   "current_stop_price": 4381.4998046875,
   "exit_price": null,
   "created_at": "2026-09-18T03:15:46.398960+00:00",
-  "last_checked_at": "2026-09-18T08:21:10.519407+00:00",
+  "last_checked_at": "2026-09-18T13:02:14.609334+00:00",
   "last_error": null
 }
