@@ -1,14 +1,15 @@
 # Gold ORB Strategy — Status Report
 
-_Last updated: 2026-09-18 00:38 UTC — regenerated every 5 minutes by [gold-tick.yml](.github/workflows/gold-tick.yml), no manual step needed._
+_Last updated: 2026-09-18 03:15 UTC — regenerated every 5 minutes by [gold-tick.yml](.github/workflows/gold-tick.yml), no manual step needed._
 
-## Verdict: No trades yet
+## Verdict: Position open (LONG)
 
-The strategy hasn't opened a trade since it started running. That means no valid setup has formed — see [README.md](README.md#gold-asian-session-orb-strategy-separate-engine) for the entry rules — not that the automation is broken.
 
 ## Open Position
 
-No open position.
+| Side | Contracts | Entry | Stop | Last | Unrealized P&L | Targets hit |
+|---|---|---|---|---|---|---|
+| LONG | 1 | $4388.70 | $4381.50 | $4388.70 | +$0.00 | 0/3 |
 
 ## Recent Trades
 
@@ -21,6 +22,6 @@ No closed trades yet.
 ## Session
 
 - Session date: 2026-09-17
-- Entries today: 0/2
-- Last known price: $4391.50
+- Entries today: 1/2
+- Last known price: $4388.70
 

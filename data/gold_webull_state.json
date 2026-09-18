@@ -1,1 +1,14 @@
-{}
+{
+  "mirror_status": "pending_entry",
+  "symbol": "MGCV6",
+  "side": "long",
+  "contracts": 1,
+  "entry_client_order_id": "9ddc72fdda764c45aac17a7dd05ac039",
+  "entry_fill_price": null,
+  "stop_client_order_id": null,
+  "current_stop_price": 4381.4998046875,
+  "exit_price": null,
+  "created_at": "2026-09-18T03:15:46.398960+00:00",
+  "last_checked_at": "2026-09-18T03:15:46.398980+00:00",
+  "last_error": null
+}
