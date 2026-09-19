@@ -1,6 +1,6 @@
 # Gold ORB Strategy — Status Report
 
-_Last updated: 2026-09-19 12:28 UTC — regenerated every 5 minutes by [gold-tick.yml](.github/workflows/gold-tick.yml), no manual step needed._
+_Last updated: 2026-09-19 16:00 UTC — regenerated every 5 minutes by [gold-tick.yml](.github/workflows/gold-tick.yml), no manual step needed._
 
 ## Verdict: Last trade won (+$168.00)
 
